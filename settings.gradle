@@ -1,0 +1,2 @@
+include ':app', ':libmyzxing'
+project(':libmyzxing').projectDir = new File('libzxing')
